@@ -1,0 +1,12 @@
+
+(---------------------------------------------
+Time        : 2024-12-12T15:49:20.956Z
+API Path    : /login/login
+Method      : POST
+Request Body: {
+  "name": "om vaghani",
+  "email": "om@gmail.com"
+}
+Response    : <hidden>
+---------------------------------------------)
+
